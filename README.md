@@ -1,7 +1,7 @@
 # A360-HTMLTable
-## HTML Tables to Datatables
+## HTML Tables to A360 Datatables
 - Get list of tables from HTML into A360 List of Datatables.
 
-## Datatable to HTML string
+## A360 Datatable to HTML Table
 - Get HTML table representation of A360 Datatable.
 - Apply inline CSS.
